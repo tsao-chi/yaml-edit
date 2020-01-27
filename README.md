@@ -11,7 +11,7 @@ The yaml editor can be initialized by passing the yaml (string) as a parameter t
 
 Alternatively, the editor can be initialized with the `init(string text)` method
 
-    let yamlEdit = require('yaml-edit)();
+    let yamlEdit = require('yaml-edit')();
     yamlEdit.init(myYamlText);
 
 ### Inserting into YAML 
